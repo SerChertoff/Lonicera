@@ -1,0 +1,13 @@
+.card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.card img {
+  border-radius: 90%;
+  width: 90%;
+  margin: auto;
+}
